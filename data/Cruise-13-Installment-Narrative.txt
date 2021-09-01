@@ -1,0 +1,53 @@
+﻿Narrative TE VEGA CRUISE 13 
+
+The cruise was concerned primarily with the interrelationships between hydrography, nutrients, and primary productivity. Standard hydrographic observations, nutrient chemistry, C14 primary productivity measurements and N15 ammonia and nitrate uptake measurements were made at 100-mile intervals along a line from the southern tip of Baja California to a point on the equator just west of the Galapagos Islands.  This line crosses the maximum development of the oxygen minimum layer. The work carried out is expected to contribute substantially to an understanding of the dynamics of this poorly understood phenomenon. Dr. John Caperon participated primarily in this aspect of the cruise program and was present for the entire cruise.
+
+Dr. Holger Jannasch participated in leg 1, attempting to isolate sulfate-reducing bacteria from the surface sediments and from the water column.
+
+Dr. Lauren Woods joined us at Acapulco for the final leg. His interests were in fish taxonomy, particularly in the Galapagos Islands.
+
+Dr. Malvern Gilmartin acted in my place as Chief Scientist during my absence between La Paz and Acapulco.
+
+Seven graduate students and three faculty associates participated in the cruise. An annotated list is provided as an appendix to this report. Three technicians were provided by the TE VEGA program and one chemical technician from the University of Alaska helped set up the chemistry program. 
+	
+Leg 1: Long Beach to La Paz, January 12 – 23
+
+Essentially a shakedown, this leg was punctuated by stops at San Diego and Ensenada for customs and immigration formalities and at Scammon Lagoon in Baja California. It had been hoped to observe Gray Whales at Scammon Lagoon and two days were spent at that location. The shallow depths of the bay combined with the 19-foot draft of the TE VEGA required anchoring about eight miles off the lagoon. The small size of boats available, 13 ft, and lack of radio resulted in a hazardous situation. An operation in that area with the TE VEGA should not be attempted again without using local vessels of adequate size and local pilots.
+
+Five stations were made between Scammon Lagoon and the tip of Baja. California. The Nansen bottle work settled to a routine, and 14C productivity work and chlorophyll measurements were started. Difficulty was experienced with the DU Spectrophotometer and no chemical data was obtained for this leg.
+
+A series of five stations was taken by Dr. Jannasch spaced over twenty miles along a line south from the tip of Baja California. Samples were taken to measure the occurrence of sulfate-reducing bacteria in the water columns and in the surface layer of sediment, with special attention given to the region where the oxygen minimum layer impinged against the slope.
+
+Mid-water trawls with a Tucker opening and closing net were made at each regular station. James Childress, graduate student from Hopkins Marine Station was able to observe respiration rate as a function of oxygen concentration for Gnathophausia sp. This animal was taken from Tucker trawls in good physiological condition and from the experimental results, appears to control its respiratory rate to very low levels, about 0.2 ml/liter 02 an observation which helps explain the ability of this organism to spend some of its time in water of the oxygen minimum.
+
+Leg 2: La Paz to Acapulco, January 27 - February 4.	
+
+Stations were occupied with the following observations being made: temperature, oxygen, salinity, nitrite, nitrate, phosphate,
+silicate, chlorophyll, and 14C primary productivity. All measurements except phosphate and silicate are of sufficient quality to be useful; difficulties were encountered with the chemical methods partly as a result of the unexpected absence of myself and my wife on this leg. Trawls were made within the oxygen minimum layer at each station with generally small catches.
+
+
+
+
+
+Leg 3: Acapulco to the Galapagos Islands and Balboa, February 17 -March 10.
+
+The first departure on this leg was made February 7, returning to Acapulco the following day after a generator breakdown several hours out of port. Difficulties were encountered in obtaining replacement parts and the cruise was underway again on February 17. In some ways it is apparent that full enthusiasm was never regained by the cruise following this unfortunate occurrence.
+
+Stations 641 to 647 were taken continuing the line from the tip of Baja. California to the Galapagos Islands. Stations 648 - 650 were made at 1° intervals from 2°N to the equator just west of Isabella Island, making a half-section across the Cromwell Current.
+
+The period February 26 to March 3 was devoted to the collecting of fish and visits to Genovese, Santa Cruz, Santa Maria, and Isabella Islands.	
+One station, 651, was taken after leaving Genovese Island. Plans for additional stations on the way to the mainland were abandoned when it became apparent, in view of the marginal quantity of fuel remaining aboard, that the mechanical condition of the ship had deteriorated to the point where a straight run to the nearest port was in order. One generator was again inoperative making it virtually impossible to use the winches, and the breakdown of the air conditioning system had forced almost the entire ship onto the deck for sleeping, the cabins having no forced air ventilation. The cruise terminated in Balboa, Panama Canal Zone on March 10.
+
+
+Summary
+
+Preliminary analysis of the data was carried out on board, with students constructing sections for the hydrographic, chemical, and productivity parameters. The number of current systems in that part of the Pacific traversed is relatively large and a number of excellent examples of hydrographic influences upon primary productivity were encountered. At the station on the equator, the 14C primary productivity was nearly 14 grams/m2/day. This figure, if verified, is apparently the highest measured in the open ocean by a factor of 2, reflecting the effect of the Cromwell Current as it surfaces from the topographic influence of the Galapagos Islands. The section from La Paz to the Galapagos crossed the oxygen minimum layer at approximately right angles to its long axis. Examination of the data shows that the high nitrite core lies well within the core of the oxygen minimum defined by the 0.1 ml/liter contour. Further analysis, along with 15N tracer work now in progress on Cruise 14 should help provide a definite answer to the question of the source of the high nitrite concentrations observed here and off the coast of Peru.
+
+Primary production was also measured in terms of nitrogen using as a 15N tracer in parallel with 14C measurements. Measurements of nitrate-uptake, or new production, in the euphotic zone were made from Acapulco to the Galapagos. As part of a thesis project, attempts were made to measure the response of natural populations to added nitrate and ammonia, using 15N as a tracer. The interpretation of the 15N experiments must await mass spectrometer analyses.
+
+The nature of the cruise and the interests of the faculty resulted in less emphasis than usual upon collection and identification of animals. Collections of fish were made at several locations in the Galapagos Islands with apparently excellent results, rounding out collections made previously in that region by Mr. Woods.
+
+For the students, the cruise provided dramatic evidence of the intimate relationship between biological productivity and hydrography. The use of 14C with onboard counting made it possible to follow daily changes and an in situ chlorophyll recorder was used underway. All data were reduced and plotted as quickly as possible. Sections for various parameters were plotted by groups of students and faculty with discussions held at appropriate intervals. Those students who had an active or latent interest in this aspect of biological oceanography learned a great deal. Not all were interested in numbers, however, and undoubtedly these were disappointed by the paucity of living specimens. It may also be possible that two and a/half months is too long a period to maintain interest in a field which to some biologists may seem abstract. However, it is also true that those who were reluctant to participate on the basis that
+they were waiting for the ichthyologist to come on board, failed to participate in his program also. As is usually the case, the bright students were alert, participated, and were a pleasure to know and to work with.
+
+-Richard C. Dugdale, Chief Scientist

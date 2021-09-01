@@ -1,0 +1,101 @@
+﻿Te Vega Cruise 14--Narrative 
+
+INSTRUCTION AND PROPOSED RESEARCH
+
+Instruction
+The planned research and instruction was primarily individually oriented. Each member of the scientific party worked on an independent problem. It was expected that junior and senior investigators would work together in collecting the routine hydrographic and nutrient data, observations which were necessary for successful completion of many individual projects. Formal instruction, lecture and laboratory assignment was minimized and instruction was planned to be informal at the individual or small-group level. This was to provide a more realistic oceanographic research vessel atmosphere rather than merely a classroom moved to the open sea. However, faculty and student formal presentations were given to the entire group when deemed necessary by the faculty. Thus the instructional approach placed most of the emphasis on individual planning of research, on individual responsibility for collection of data necessary for successful completion of the project, and a minimal amount of joint data gathering, hopefully producing a working environment similar to the average oceanographic expedition.
+
+At the beginning of the cruise each investigator, junior and senior, gave the entire scientific party a briefing on his or her proposed research project. Some students arrived with their projects well planned, while others were assisted by the faculty in selecting a suitable problem. The formal presentations allowed criticism from both junior and senior scientists which in some cases suggested major or minor changes of attack. This approach appeared to be helpful to individuals inexperienced in the conduct of open-ocean biological research. Mid-cruise and final presentations on research completed were also given. A written report summarizing individual projects was expected to be submitted to the faculty at the time of the final presentation. In some cases original proposals proved to be unworkable and new projects had to be initiated. This provided valuable experience to those junior investigators who had to design new projects while at sea.
+
+Log of Activities
+1)	Acapulco — 31 March - 6 April.
+Instruction was given in marine chemical methods and measurement of primary production using radio carbon and chlorophyll concentrations. Methods for analyses of NO3-, NO2-, NH4+, PO4-3, SiO4-3, and O2 were set up and tested. The C14 technique, of measuring primary production was demonstrated along with the fluorescence method of measuring chlorophyll a. Each student was expected to assist in the analysis of a nutrient or in collection of productivity data. This required individual instruction in chemical procedures and use of instruments such as Bechman DU spectrophotometer, fluormeter, etc., and the mathematical computation and entry of data onto individual station reduced data forms.
+
+Individual project work areas were assigned and materials and supplies necessary were procured.
+
+All over the side gear to be used during Cruise 14 was assembled, checked for proper operation and repaired if necessary.
+
+2)	Acapulco to Mazatlan — 6 April - 30 April.
+Fourteen hydrographic stations were occupied at which the following parameters were measured. Temperature, salinity, oxygen and the nutrients, N03-, NO2-, NH4+, PO4-3, and SiO4-3. At eleven of the fourteen stations primary production studies (C14 uptake and chlorophyll a measurements) were made as outlined. After completion of hydrocast large samples of water were obtained with the glass sampler for individual studies.
+
+Time was allotted for net sampling after completion of water catching. This involved meter net, clark-Bumbus or Tucker Trawl hauls. Material obtained was used for individual projects as outlined under research conducted.
+
+On 26 April a hydrographic station was occupied in Bahia De Banderas a bay on which the small village of Puerta Vallerta is located. No oxygen from 75-500 m was reported in this area in 1959. Traces of oxygen were present at this time but NO2-concentration in the oxygen-minimum layer were the largest encountered on the cruise (maximum of 2.5 μg at NO2 = N/liter). After completion of hydrostation trips were made to shallow water for collection of intertidal organisms.
+
+A stop at Magdalena Island, one of the Tres Marias Islands, occurred on 28 April. Numerous small boat trips to reefs and other shallow waters and beaches were made to collect local fauna and flora.
+
+2)	Acapulco to Mazatlan —6 April - 30 April (cont’d)
+Faculty lectures were given on the following topics? 1) Measurement of primary production; 2)geographic variation in primary production; 3) isotype-tracer techniques; 4) biochemical oxidation of organic matter in anoxic basins; 5) currents in the ocean; 6) oxygen in the ocean; 7) langmuir circulation.
+
+3)	Mazatlan — 30 April - 8 May.
+The time in port was spent in working on individual projects and on repair and cleaning of gear for next leg. Reagent weighing and other preparations necessary for continuence of water chemistry program were completed.. Summary reports of student individual research conducted on first leg of cruise were submitted to the faculty.
+
+4)	Mazatlan to Cabo San Lucas — 9 May - 18 May.
+During this leg of the cruise the hydrographic and trawling programs were continued. Ten stations were occupied.
+On 13 May a stop at Socorro Island proved interesting to all. Numerous small boat trips to reefs and other shallow waters and beaches were made to collect local fauna and flora. The water around the island was rich in organisms of all types and the clear water made observations ideal.
+
+5)	Cabo San Lucas to Mazatlan —18 May - 26 May.
+Because of the faulty gear box in the vessel it was decided that the trawling program be terminated. A diurnal study lasting two days was therefore undertaken during which the ship was allowed to drift and hopefully remain in the same surface water. Very low winds during this period probably, had little effect in ship movement. The parameters examined for diurnal changes in the water column to a depth of 150 m were temperature, salinity, 02, NO3-, NO2-, NH4+, PO4-3, SiO4-3 and plant pigments. C14 uptake and uptake of N15 labeled NH4+ and NO3- were also obtained in samples of water collected from the surface and incubated 5 hr under constant illumination and temperature.
+
+Faculty lectures were given on the following topics: 1) Silicon Cycle in the Ocean; 2) Silica in Diatoms.
+
+Research Conducted
+All aspects of the general program outlined previously were carried out successfully. Thirty-two hydrostations were taken and measurements of the physico-chemical parameters recorded. At most of the stations additional time was spent taking metered net, clark-Bumbus, and Tucker-trawl hauls.
+
+A summary of individual research projects follows.
+Faculty
+
+J. J. Goering - The Marine Nitrogen and Silicon cycles.
+N15 labeled compounds were used to study the marine nitrogen cycle as outlined under proposed research. This included measurements of rates of nitrogen fixation, ammonia and nitrate assimilation, nitrification, and denitrification. A few experiments examining the uptake of 30 Si labeled silicate in coastal waters rich in diatoms were also completed.
+
+C. Boyd - Lactic Acid in Euphausiids.
+Planktonic euphausiids were collected from the oxygen-minimum zone to determine their lactic acid content. The results were negative suggesting that these animals do not accumulate lactic acid when respiring in low-oxygen water. The possibility of these organisms having a respiratory pigment should be examined.
+
+Students
+W. Baribault - Zooplankton Excretion.
+A study of diurnal variations in zooplankton excretion rates of NH4+, urea, uric acid, NO2-, NO3-, and PO4-3 was completed. This involved collection of zooplankton from the upper 100 meters with clark-Bumbus hauls, incubation of these animals for short intervals, and analysis of samples for the nitrogen and phosphorus compounds.
+
+W. Ford - Contribution of Organic Matter to the Water Column by Euphausiid Molting.
+Because of difficulty in maintaining animals alive in the laboratory the project was modified to a survey of the dry weight and carbon content of euphausiids in the upper 500 meters. The possible contribution of carbon to the water column from euphausiid molting was then to be estimated using published figures for frequency of molt and weight of molt as a percentage of the dry weight of the animals.
+
+Y. Leonard - Respiration in Euphausiids and a Diurnal Study of
+       PO4-3, SiO4=, O2 and C14 uptake in Surface Water.
+The project to measure respiration rates of Euphausia dixtinguenda under conditions of varying oxygen tension failed due to mechanical difficulties with the respirometers.
+A 48-hour diurnal study of variations in concentrations of PO4, SiO4, and O2 in the upper 150 meters of water was completed. C14 uptake in water collected from the surface and incubated under constant illumination and temperature was also studied.
+
+C. Levenson - Characteristics of Scattering Layers.
+Scattering-layer characteristics were studied at fifteen stations in the E. Tropical Pacific. Regression analysis of various biological and physical parameters and their relation to depths of maximum scattering were made. Correlation coefficients of these relations were calculated.
+
+T. Newcomb - Interspecific Competition in Myctophidae.
+The vertical and horizontal distribution of these fish were examined. After specie identification interspecific competition is to be studied using MacArthur's "stick" model.
+
+G. Olson - The Distribution of Ceratium off of Western Mexico.
+Plankton samples collected from the ship's salt water pumping system by passing the water through a No. 25 net were examined for quantity and species of Ceratium. Species numbered from ten to twelve in some samples to none in others.
+
+R. Perkins - Role of Macroplankton and Microplankton in the Oxygen-Minimum Layer.
+Samples were taken from above, in, and below the oxygen-minimum layer and the organisms separated into macro- and micro-size groups and then respiration measured* Cell counts using fluorescent microscopy were also compared. The microplankton appeared to contribute a majority of numbers and respiration.
+
+R. Perkins - Nutrient Enrichment Experiments in the Southern Tropical Pacific.
+Samples of plankton from various light levels were cultured in nutrient-enriched media and their production measured. Nitrogen appeared to be limiting; C14 uptake was used as the criterion for production.
+
+Bacteria from various light levels were cultured in nutrient-enriched media and their growth measured by optical density changes. P appeared to limit bacterial growth.
+
+G. Schussler - Chaetognath Distribution in Relation to Oxygen. Chaetognaths were collected from various depths in the eastern tropical Pacific. Attempts to determine specie differences and their abundance in relation to oxygen failed because of inadequacy of collecting gear.
+
+The chaetognaths collected from the oxygen minimum were analyzed for lactic acid content, a speculated means of adaptation to low-oxygen conditions. No lactic acid was found in these animals.
+
+G. Silberstein - Marine Fungi in the Oxygen-Minimum Region.
+An attempt was made to culture marine fungi from water collected from the oxygen-minimum layer. A nutrient agar supplemented with antibiotics was used as the growth surface with plating being done using standard microbiological, sterile technique. The plating’ experiments were terminated when fungal growth on uninoculated plates indicated spore contamination occurring in spite of the best sterile technique that could be effected onboard.
+
+G. Silberstein - Ammonia Distribution in the Oxygen-Minimum Layer. Concentrations of ammonia, nitrate and nitrite were measured in water samples collected from the oxygen-minimum layer to attempt to determine the source of nitrite so prevalent in this water.
+
+A. Spencer - A Study of Euphausiids off the Coast of Mexico.
+The vertical and horizontal distribution of various species of euphausiids was examined by collecting samples from various depths with a non-closing type of meter net.
+
+SUMMARY	
+
+The attempt to organize the main research around individual projects, planned and executed individually, was generally successful. It was interesting to watch the students' research attitudes change and their marine research interests develop during their stay onboard, and it is felt that individual responsibility had much to do with the maturation process. The cooperative diurnal study was well received. This experiment of organizing a short study around a broad topic, planned and executed jointly by faculty and students, is recommended. However, it is suggested that the joint project be undertaken at or near the end of the cruise, a time when students and faculty are well acquainted with each other’s ability and personalities.
+
+The ship and its gear left something to be desired. However, the necessity to improvise and construct equipment needed to complete individual research provided an intellectual challenge readily accepted by most of the students.
+
+In the future it is suggested that introductory material on physical, chemical and biological oceanography be given before departure from port. This would assist students in collecting and understanding routine oceanographic data.

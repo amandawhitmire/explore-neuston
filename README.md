@@ -2,14 +2,16 @@
 A Jupyter Notebook to explore mentions of oceanic neuston in historical Stanford research cruise logs.
 
 # Repo organization
-.
-├── data
-      ├──                        # Text files that are corrected OCR from scanned cruise logs
-├── code                   
-      ├── neuston-ner.ipynb      # Runs the Python code
-├── docs
-      ├── helm.jsonl             # Contains the custom entities for teh spaCy NER pipeline
-      └── dataset-summary.xlsx   # Describes dates of cruises and other descriptiove info
+      
+      ├── code               
+            ├── neuston-ner.ipynb      # Runs the Python code
+      ├── data
+            ├──                        # Text files that are corrected OCR from scanned cruise logs
+      ├── docs
+            ├── helm.jsonl             # Contains the custom entities for the spaCy NER pipeline
+            └── dataset-summary.xlsx   # Describes dates of cruises and other descriptiove info
+      ├── LICENSE             
+      └── README
       
 ## Background
 

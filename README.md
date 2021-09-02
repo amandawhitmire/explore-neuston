@@ -1,5 +1,5 @@
 # Exploring neuston observations in historical oceanographic field logs
-A Jupyter Notebook to explore mentions of oceanic neuston in historical Stanford research cruise logs.
+The plan s to create a Jupyter Notebook to explore mentions of oceanic neuston in historical Stanford research cruise logs, then launch it in a [Binder](https://mybinder.org/) for collaborators to interact with.
 
 # Repo organization
       

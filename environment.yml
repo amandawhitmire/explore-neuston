@@ -5,5 +5,6 @@ dependencies:
   - python
   - numpy
   - pip
+  - pandas
   - pip:
-    - spacy
+    - spacy > 3.0

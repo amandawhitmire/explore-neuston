@@ -1,0 +1,199 @@
+Index,Text,Label
+0,July 14.,DATE
+1,1963,DATE
+2,1,CARDINAL
+3,the first of June,DATE
+4,Monterey,GPE
+5,Diego,GPE
+6,June 30th,DATE
+7,July 1st,DATE
+8,the B Street Pier,FAC
+9,Dean Frederick Terman,ORG
+10,Stanford University,ORG
+11,Harve Carlson,PERSON
+12,the National Science Foundation,ORG
+13,John Ryther,PERSON
+14,the International Indian Ocean Expeditions,EVENT
+15,L. R. Blinks,PERSON
+16,the Hopkins Marine Station,ORG
+17,R. L. Bolin,PERSON
+18,Capt,ORG
+19,E. B. Olsen,PERSON
+20,the San Diego Yacht Club,ORG
+21,the Yacht Club,ORG
+22,almost two weeks,DATE
+23,a mile,QUANTITY
+24,Scripps Institution of Oceanography,ORG
+25,Point Loma,ORG
+26,2205,DATE
+27,July 13th,DATE
+28,the Bay.,LOC
+29,midnight,TIME
+30,the night,TIME
+31,about 16,CARDINAL
+32,morning,TIME
+33,only one,CARDINAL
+34,Thompson,PERSON
+35,Earth,LOC
+36,the night,TIME
+37,three,CARDINAL
+38,fish,HELM
+39,Cypselurus,PRODUCT
+40,first,ORDINAL
+41,Station 1,DATE
+42,This evening,TIME
+43,1-m,QUANTITY
+44,plankton,HELM
+45,220,CARDINAL
+46,first,ORDINAL
+47,first,ORDINAL
+48,Thalia,GPE
+49,Chaetognatha,PERSON
+50,Saphirina,GPE
+51,Streetsia,GPE
+52,Phronima,GPE
+53,"July 15, 1963",DATE
+54,hours,TIME
+55,wood,HELM
+56,birds,HELM
+57,bird,HELM
+58,Fregata,ORG
+59,yesterday,DATE
+60,Shortly after noon,TIME
+61,today,DATE
+62,Pacific,LOC
+63,Vellela vellela,HELM
+64,Thompson,PERSON
+65,another morning,TIME
+66,this afternoon,TIME
+67,1,CARDINAL
+68,plankton,HELM
+69,3000,CARDINAL
+70,one,CARDINAL
+71,yesterday,DATE
+72,fish,HELM
+73,Cyclothone,ORG
+74,500,CARDINAL
+75,Lantern,NORP
+76,about 8,CARDINAL
+77,"July 16, 1963",DATE
+78,Thompson,PERSON
+79,this morning,TIME
+80,this morning,TIME
+81,5,CARDINAL
+82,8544,CARDINAL
+83,only 1500,CARDINAL
+84,afternoon,TIME
+85,July 17.,DATE
+86,two,CARDINAL
+87,Thompson,PERSON
+88,Bennett,PERSON
+89,birds,HELM
+90,Kodachrome,GPE
+91,Bennett,PERSON
+92,afternoon,TIME
+93,about five,CARDINAL
+94,Tucker,PERSON
+95,about 700 feet,QUANTITY
+96,"July 18, 1953",DATE
+97,Vellela,HELM
+98,floating,HELM
+99,NE,GPE
+100,SW,ORG
+101,colonies,GPE
+102,Vellela,HELM
+103,Vellela,HELM
+104,Janthina,HELM
+105,Yesterday,DATE
+106,today,DATE
+107,Janthina,HELM
+108,float,HELM
+109,float,HELM
+110,Vellela,HELM
+111,Janthina,HELM
+112,Vellela,HELM
+113,Vellela,HELM
+114,Fiona,PERSON
+115,Vellela,HELM
+116,Vellela,HELM
+117,Vellela,HELM
+118,Alepas,GPE
+119,Vellela,HELM
+120,two,CARDINAL
+121,wood,HELM
+122,half,CARDINAL
+123,barnacles,HELM
+124,Lepas,PERSON
+125,two,CARDINAL
+126,wood,HELM
+127,barnacles,HELM
+128,This afternoon,TIME
+129,21,CARDINAL
+130,first,ORDINAL
+131,second,ORDINAL
+132,second,ORDINAL
+133,Phyllirhoe,PERSON
+134,two,CARDINAL
+135,Bennett,PERSON
+136,first,ORDINAL
+137,July 25.,DATE
+138,The days,DATE
+139,Tucker,PERSON
+140,Honolulu,GPE
+141,3000,CARDINAL
+142,plankton,HELM
+143,first,ORDINAL
+144,Glauca,PERSON
+145,squid,HELM
+146,one,CARDINAL
+147,Rhabdosoma,ORG
+148,about 4 inches,QUANTITY
+149,only about one,CARDINAL
+150,one,CARDINAL
+151,eight,CARDINAL
+152,oil,HELM
+153,Robert Beeman,PERSON
+154,Richard Conrad,PERSON
+155,Joan Gerdts,PERSON
+156,more than 10,CARDINAL
+157,Richard Mariscal,PERSON
+158,Donald Thompson,PERSON
+159,Today,DATE
+160,first,ORDINAL
+161,Today,DATE
+162,about half,CARDINAL
+163,about a dozen,CARDINAL
+164,Delphinus,GPE
+165,about a quarter of an hour,DATE
+166,Laysan,PERSON
+167,albatross,HELM
+168,birds,HELM
+169,only three,CARDINAL
+170,Danish,NORP
+171,BELGIAN REEFER,ORG
+172,July 30.,DATE
+173,Kauai Channel,PERSON
+174,Diamond Head,PERSON
+175,Honolulu,GPE
+176,5 o'clock this afternoon,TIME
+177,The intervening days,DATE
+178,Hiss Bennett,PERSON
+179,Thompson,PERSON
+180,One,CARDINAL
+181,Vellela,HELM
+182,several hundred miles,QUANTITY
+183,plankton,HELM
+184,Sunday,DATE
+185,only a couple of days,DATE
+186,Pacific,LOC
+187,four,CARDINAL
+188,days,DATE
+189,1030,DATE
+190,the 23rd,DATE
+191,last night,TIME
+192,this morning,TIME
+193,up to 13,CARDINAL
+194,Oahu,ORG
+195,Pago Pago,ORG
+196,Suva,GPE
+197,Rolf L. Bolin,PERSON

@@ -1,0 +1,9 @@
+name: neuston-ner-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pip
+  - pip:
+    - spacy

@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/amandawhitmire/explore-neuston.git/HEAD?filepath=code%2Fneuston-ner.ipynb)
+
 # Exploring neuston observations in historical oceanographic field logs
 The plan s to create a Jupyter Notebook to explore mentions of oceanic neuston in historical Stanford research cruise logs, then launch it in a [Binder](https://mybinder.org/) for collaborators to interact with.
 
@@ -10,7 +12,11 @@ The plan s to create a Jupyter Notebook to explore mentions of oceanic neuston i
       ├── docs
             ├── helm.jsonl             # Contains the custom entities for the spaCy NER pipeline
             └── dataset-summary.xlsx   # Describes dates of cruises, text files, and other descriptive info
-      ├── LICENSE             
+      ├── environment.yml              # Decribes environment dependencies, etc.
+      ├── LICENSE 
+      ├── ner
+            ├── Cruise-XX ...          # Text files with results of NER for each cruise narrative
+            ├── soe-ner-all.txt        # All of the NER results toegther in one file            
       └── README
       
 ## Background

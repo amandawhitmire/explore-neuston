@@ -1,7 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/amandawhitmire/explore-neuston.git/HEAD?filepath=code%2Fneuston-ner.ipynb)
 
 # Exploring neuston observations in historical oceanographic field logs
-The plan s to create a Jupyter Notebook to explore mentions of oceanic neuston in historical Stanford research cruise logs, then launch it in a [Binder](https://mybinder.org/) for collaborators to interact with.
+The plan is to create a Jupyter Notebook to explore mentions of oceanic neuston in historical Stanford research cruise logs, then launch it in a [Binder](https://mybinder.org/) for collaborators to interact with.
 
 # Repo organization
       
